@@ -1,0 +1,19 @@
+D:\Faks\6 semestar\Pristup podacima\solDomaci1\Domaci1\bin\Debug\Domaci1.exe.config
+D:\Faks\6 semestar\Pristup podacima\solDomaci1\Domaci1\bin\Debug\Domaci1.exe
+D:\Faks\6 semestar\Pristup podacima\solDomaci1\Domaci1\bin\Debug\Domaci1.pdb
+D:\Faks\6 semestar\Pristup podacima\solDomaci1\Domaci1\obj\Debug\Domaci1.csprojAssemblyReference.cache
+D:\Faks\6 semestar\Pristup podacima\solDomaci1\Domaci1\obj\Debug\Domaci1.Form1.resources
+D:\Faks\6 semestar\Pristup podacima\solDomaci1\Domaci1\obj\Debug\Domaci1.Properties.Resources.resources
+D:\Faks\6 semestar\Pristup podacima\solDomaci1\Domaci1\obj\Debug\Domaci1.csproj.GenerateResource.cache
+D:\Faks\6 semestar\Pristup podacima\solDomaci1\Domaci1\obj\Debug\Domaci1.exe
+D:\Faks\6 semestar\Pristup podacima\solDomaci1\Domaci1\obj\Debug\Domaci1.pdb
+C:\Users\Bvid\Desktop\MTZPP\solDomaci1\Domaci1\bin\Debug\Domaci1.exe.config
+C:\Users\Bvid\Desktop\MTZPP\solDomaci1\Domaci1\bin\Debug\Domaci1.exe
+C:\Users\Bvid\Desktop\MTZPP\solDomaci1\Domaci1\bin\Debug\Domaci1.pdb
+C:\Users\Bvid\Desktop\MTZPP\solDomaci1\Domaci1\obj\Debug\Domaci1.csprojAssemblyReference.cache
+C:\Users\Bvid\Desktop\MTZPP\solDomaci1\Domaci1\obj\Debug\Domaci1.Form1.resources
+C:\Users\Bvid\Desktop\MTZPP\solDomaci1\Domaci1\obj\Debug\Domaci1.Properties.Resources.resources
+C:\Users\Bvid\Desktop\MTZPP\solDomaci1\Domaci1\obj\Debug\Domaci1.csproj.GenerateResource.cache
+C:\Users\Bvid\Desktop\MTZPP\solDomaci1\Domaci1\obj\Debug\Domaci1.csproj.CoreCompileInputs.cache
+C:\Users\Bvid\Desktop\MTZPP\solDomaci1\Domaci1\obj\Debug\Domaci1.exe
+C:\Users\Bvid\Desktop\MTZPP\solDomaci1\Domaci1\obj\Debug\Domaci1.pdb
